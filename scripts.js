@@ -120,7 +120,7 @@ function _0xe3f4() {
     'Loading World & Speed module (9 features) — Speed Boost, Flight, NoClip, Teleport...',
     'Loading Quality of Life module (7 features) — Anti-AFK, Auto-Collect All, Notification on Steal, Show Stats...',
     'Activation required: click to unlock all features.',
-    'Ready for download — press [INSERT] in-game to open the hub.'
+    'Ready for download — press [P] in-game to open the hub.'
   ];
   const _0xa5b6 = [
     `checksum: ${_0xf2a3()}${_0xf2a3()}`,
@@ -220,7 +220,7 @@ async function _0xa7b8a() {
 
         _0xb4c5('success', _0xcf7a, 'success');
         _0xd2e3(`✓ Download started: ${DOWNLOAD_FILENAME}`);
-        _0xd2e3(`✓ Press [INSERT] in-game to open the script hub`);
+        _0xd2e3(`✓ Press [P] in-game to open the script hub`);
       }, 400);
     }, 300);
   }, 200);
